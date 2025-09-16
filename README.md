@@ -70,11 +70,11 @@ A interface do usuário será carregada e você poderá interagir com a aplicaç
         * `Produto.cs`: Classe que representa o modelo de dados do produto.
     * `Program.cs`: Configuração da aplicação, incluindo o serviço de CORS.
 
-* `/product-manager-frontend` (Frontend)
+* `/productmanager` (Frontend)
     * `/src`
         * `App.jsx`: Componente principal do React com o formulário e a lista de produtos.
         * `App.css`: Estilização da interface.
 
 ---
 
-**Autor:** [Seu Nome Aqui]
+**Autor:** Carlos Eduardo Rodrigues Pita
